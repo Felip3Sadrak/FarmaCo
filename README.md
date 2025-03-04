@@ -1,11 +1,34 @@
-# Sample Snack app
+# Farma.Co
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+![Farma.Co Logo](./src/farma-co.svg)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Descrição do Projeto
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+O **Farma.Co** é uma plataforma de delivery de medicamentos que oferece uma solução completa para gestão de pedidos e pagamentos seguros. Desenvolvido para dispositivos móveis, o projeto visa facilitar o acesso a medicamentos de forma rápida, segura e eficiente.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Tecnologias Utilizadas
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- **React Native**: Framework para desenvolvimento de aplicativos móveis multiplataforma.
+- **JavaScript**: Linguagem de programação utilizada para a lógica do aplicativo.
+- **Expo Go**: Ferramenta que facilita o desenvolvimento e teste de aplicativos React Native.
+- **Android**: Plataforma de destino para o aplicativo.
+
+## Funcionalidades Principais
+
+- **Gestão de Pedidos**: Interface intuitiva para realizar e acompanhar pedidos de medicamentos.
+- **Pagamentos Seguros**: Integração com gateways de pagamento para transações seguras.
+- **Interface Responsiva**: Design adaptável para diferentes tamanhos de tela.
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Node.js instalado
+- Expo CLI instalado globalmente (`npm install -g expo-cli`)
+- Dispositivo móvel com o aplicativo **Expo Go** instalado ou um emulador Android/iOS configurado.
+
+### Passos para Execução
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/farma-co.git
